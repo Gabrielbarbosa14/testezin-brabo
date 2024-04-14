@@ -16,12 +16,20 @@ body {
     background-color: var(--cor04);
 }
 
+#home{
+   
+    margin-left: 15px;
+    width: 30px;
+}
+
 main > h1 {
     text-align: center;
     font-family: "Roboto";
     font-weight: bold;
     color: white;
     font-size: 30px;
+    margin-top: 0px;
+    margin-bottom: 13px;
 }
 
 main > img {
@@ -31,7 +39,7 @@ main > img {
     width: 250px;
 }
 
-a{
+.nomes{
     text-align: center;
     text-decoration: none;
     color: var(--cor03);

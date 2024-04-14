@@ -15,13 +15,11 @@ body{
     margin-left: 0;
 }
 
-nav{
-    display: inline-block;
-}
-
 img{
+    margin-left: 15px;
     width: 30px;
 }
+
 
 main{
     background-color: var(--cor02);
@@ -84,7 +82,7 @@ a{
 }
 
 a:hover{
-    color: #1FB594;
+    color: white;
     transition-duration: 0.4s;
     
 }
