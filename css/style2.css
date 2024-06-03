@@ -41,21 +41,29 @@ main > #ribamar {
     text-align: center;
     text-decoration: none;
     color: var(--cor03);
-    display: block;
-    width: fit-content;
-    margin: auto;
+}
+/*
+.nomes-2{
+    margin: 15px;
+}
+*/
+
+.escolha{
+    display: flex;
+    justify-content: center;
+    flex-flow: column wrap;
+    align-items: center;
 }
 
 .escolha h3{
     background-color: var(--cor05);
     width: 500px;
-    margin: auto;
-    margin-bottom: 35px;
-    padding: 3px;
-    border-radius: 12px;
-    display: block;
+    padding: 4px;
+    border-radius: 10px;
     font-family: "roboto";
+    margin: 15px;
 }
+
 
 h3:hover{
     background-color: var(--cor02);
@@ -64,5 +72,5 @@ h3:hover{
 }
 
 .escolha .leo{
-    margin-top: 36px;
+    margin-top: 15px;
 }
