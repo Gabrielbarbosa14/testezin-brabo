@@ -18,7 +18,7 @@ body {
 
 #home{
     margin-left: 15px;
-    margin-top: 6px;
+    margin-top: 5px;
     width: 30px;
 }
 
@@ -27,7 +27,7 @@ main > h1 {
     font-family: "Roboto";
     font-weight: bold;
     color: white;
-    margin-top: 0px;
+    margin: 0px;
 }
 
 main > #ribamar {
@@ -42,11 +42,6 @@ main > #ribamar {
     text-decoration: none;
     color: var(--cor03);
 }
-/*
-.nomes-2{
-    margin: 15px;
-}
-*/
 
 .escolha{
     display: flex;
