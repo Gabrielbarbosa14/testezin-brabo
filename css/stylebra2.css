@@ -93,7 +93,7 @@ body {
 #home{
     margin-left: 15px;
     margin-top: 5px;
-    width: 30px;
+    width: 25px;
 }
 
 main > h1 {
@@ -108,7 +108,7 @@ main > img{
     border-radius: 15px;
     display: block;
     margin: auto;
-    max-width: 240px;
+    max-width: 220px;
 }
 
 .nomes{
