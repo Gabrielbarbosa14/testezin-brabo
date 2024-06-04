@@ -22,7 +22,7 @@ body {
     width: 30px;
 }
 
-main > h1 {
+main > h1{
     text-align: center;
     font-family: "Roboto";
     font-weight: bold;
@@ -30,11 +30,11 @@ main > h1 {
     margin: 0px;
 }
 
-main > #ribamar {
+main > img{
     border-radius: 15px;
     display: block;
     margin: auto;
-    width: 500px;
+    max-width: 500px;
 }
 
 .nomes{
@@ -52,7 +52,7 @@ main > #ribamar {
 
 .escolha h3{
     background-color: var(--cor05);
-    width: 500px;
+    width: 400px;
     padding: 4px;
     border-radius: 10px;
     font-family: "roboto";
